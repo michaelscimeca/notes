@@ -42,7 +42,8 @@ We are providing all assets from the start, including fonts and accounts. We sho
 
 ### Padding (Developer)
 
-![Screenshot](https://doc-0g-as-docs.googleusercontent.com/docs/securesc/dfsqflcf9kejfrin31sno3581lvimcbq/nd0kbp0d61f5rphmo6i43ksevavret4j/1613421675000/12197721224938036955/12197721224938036955/1_Y8QOhHkTyzqIfsFn96K1By9ewX6ZC72?e=view&authuser=0)
+![Screen Shot 2021-02-15 at 2 31 37 PM](https://user-images.githubusercontent.com/22859725/108376164-4d58df80-71c8-11eb-9f66-d99696b415aa.jpg)
+
 
 
 ```sh
