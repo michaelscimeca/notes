@@ -1,6 +1,5 @@
-# notes
 
-We are providing all assets from the start, including fonts and accounts. We shouldn't be using our fonts or accounts for any part of a client's site from day one. It leads to all sorts of problems, and it's double the work. (HARD FOOT "ACCEPTED" ON FLOOR)
+We are providing all assets from the start, including fonts and accounts. We shouldn't be using our fonts or accounts for any part of a client's site from day one. It leads to all sorts of problems, and it's double the work.
 
 # NOTABLE ISSUE ON THIS PROJECT
 - Fonts were wrong and needed to be reset everywhere to fix the difference, which had to do with not getting the correct fonts from the start.
@@ -42,7 +41,7 @@ We are providing all assets from the start, including fonts and accounts. We sho
 
 ### Padding (Developer)
 
-![Screenshot](https://doc-0g-as-docs.googleusercontent.com/docs/securesc/dfsqflcf9kejfrin31sno3581lvimcbq/nd0kbp0d61f5rphmo6i43ksevavret4j/1613421675000/12197721224938036955/12197721224938036955/1_Y8QOhHkTyzqIfsFn96K1By9ewX6ZC72?e=view&authuser=0)
+![Screen Shot 2021-02-15 at 2 31 37 PM](https://user-images.githubusercontent.com/22859725/108376164-4d58df80-71c8-11eb-9f66-d99696b415aa.jpg)
 
 
 ```sh
